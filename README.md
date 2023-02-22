@@ -1,3 +1,6 @@
+#####################
+In the pedagogical framework of our training at the OFPPT, we had to develop a work in which we present our cognitive knowledge and put into practice our skills acquired during our training. This is why we were divided into groups where each group must create its own project. We have chosen to create an e-commerce website using React Js.
+##############
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
