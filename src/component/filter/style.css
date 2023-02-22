@@ -1,0 +1,63 @@
+.filter-box{
+    border: 1px rgb(170, 170, 170) solid;
+    background-color: rgb(216, 212, 212);
+    border-radius: 8px;
+    width: 250px;
+    height:350px;
+    display: flex;
+    justify-content: center;
+    position: fixed;
+    left: 5%;
+    top:70px
+
+}
+table{
+    text-align: center;
+}
+.marque{
+    margin: 20px;
+    display: flex;
+    justify-content: center;
+}
+.Contenaire{
+
+    margin-left: 270px;
+    display: flex;
+    justify-content: center;
+}
+.btn1{
+    text-decoration: none;
+    color: #fff;
+    font-weight: 600;
+    border-radius: 8px;
+    text-align: center;
+    width: 100px;
+    padding: 10px 20px;
+    background-color:rgb(235, 57, 57) ;
+    margin: auto;
+    margin-top: 3px;
+}
+.btn1:hover{
+    background-color:rgb(187, 46, 46) ;
+}
+
+.btn-r{
+    text-decoration: none;
+    color: #fff;
+    font-weight: 600;
+    border-radius: 8px;
+    text-align: center;
+    width: 100px;
+    padding: 10px 20px;
+    background-color:rgb(167, 167, 167) ;
+    margin: auto;
+    margin-top: 3px;
+}
+.btn-r:hover{
+    background-color:rgb(92, 91, 91) ;
+}
+.btnbox{
+    display: flex;
+    flex-direction: column;
+    
+}

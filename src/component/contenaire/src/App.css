@@ -1,0 +1,27 @@
+.card-box{
+  border: 1px #000 solid;
+  width: 150px;
+  display: flex;
+  flex-direction: column;
+  margin: 10px;
+  
+}
+.info{
+  margin-left: 10px;
+}
+.img-box{
+  width: 150px;
+  height: 100px;
+  background-color: blueviolet;
+}
+.card-box div button{
+margin: 10px;
+}
+.content{
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  max-width: 1000px!important;
+  margin: auto!important;
+  margin-top: 50px!important;
+}

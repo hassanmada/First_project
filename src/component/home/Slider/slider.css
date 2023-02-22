@@ -1,0 +1,42 @@
+
+.slide{
+  height: 400px;
+  width: 700px;
+  text-align: center; 
+  justify-content: center;
+  text-align: right;
+  object-fit: cover;
+  top: 60px;
+  border-radius: 30px;
+
+
+}
+
+.Pics{
+  width: 100%;
+height: 100%;
+
+}
+input{
+  outline: none;
+  border: none;
+  outline-color: none;
+  border-radius: 5px;
+}
+
+@media screen and (max-width: 800px) {
+  .slide{
+    height: 300px;
+    width: 400px;
+    text-align: center; 
+    justify-content: center;
+    text-align: right;
+    object-fit: cover;
+    top: 0px;
+    border-radius: 30px;
+  
+  }
+
+
+
+}

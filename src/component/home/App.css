@@ -1,0 +1,12 @@
+.body_home_app{
+  background-color: rgb(184, 184, 184);
+}
+.home_app{
+  background-color: #fff;
+  max-width: 80%;
+  margin: auto;
+  margin-bottom: 10px;
+  margin-top: 20px;
+  border: 1px solid rgb(190, 190, 190);
+  box-shadow: 0 0 10px rgb(151, 151, 151);
+}

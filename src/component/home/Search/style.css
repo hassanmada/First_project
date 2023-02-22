@@ -1,0 +1,108 @@
+
+
+.templateContainer > .searchInput_Container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+}
+.templateContainer > .searchInput_Container input{
+        position: relative;
+        top: 3px;
+        margin: 10px;
+        background-color: rgba(85, 85, 85, 0);
+        border-bottom: #f1f1f1 solid 1px;
+        color: #fff;
+}
+.templateContainer > .searchInput_Container input::placeholder{
+    color: #fff;
+}
+
+.templateContainer .template_Container{
+    display: flex;
+    background-color: white;
+    align-items: center;
+    justify-content: center;
+    margin: auto!important;
+    position: fixed;
+    top: 54px;
+    display: block;
+    overflow: auto;
+    height: 300px;
+    box-shadow: 0 0 10px rgb(104, 104, 104);
+}
+
+
+.templateContainer .template_Container::-webkit-scrollbar {
+    width: 6px;
+  }
+.templateContainer .template_Container::-webkit-scrollbar-track {
+    background: #f1f1f1;
+  }
+.templateContainer .template_Container::-webkit-scrollbar-thumb {
+    background: rgb(0, 0, 0);
+    border-radius: 8px;
+
+  }
+.templateContainer .template_Container  ::-webkit-scrollbar-thumb:hover {
+    background: #555;
+  }
+
+.templateContainer .template_Container .template{
+    background-color: white;
+    margin: 30px;
+    padding: 0px 20px;
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid #000;
+    text-decoration: none;
+    color: #000;
+}
+.templateContainer .template_Container .template img{
+    height: 50px;
+}
+@media screen and (max-width: 800px) {
+    .templateContainer > .searchInput_Container{
+         position:absolute;
+         left :250px;
+    }
+    .templateContainer .template_Container{
+        top:54px;
+        left:170px
+    }
+
+
+}
+@media screen and (max-width: 700px) {
+    .templateContainer > .searchInput_Container{
+         position:absolute;
+         left :200px;
+    }
+    .templateContainer .template_Container{
+        top:54px;
+        left:120px
+    }
+    .templateContainer > .searchInput_Container input{
+        width: 200px;
+    }
+    .srhicon{
+        left: 27rem;
+    }
+
+
+}
+@media screen and (max-width: 560px) {
+    .templateContainer > .searchInput_Container{
+         position:absolute;
+         left :150px;
+    }
+    .templateContainer .template_Container{
+        top:54px;
+        left:60px;
+    }
+    .srhicon{
+        display: none;
+    }
+
+
+}

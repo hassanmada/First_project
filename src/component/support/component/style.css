@@ -1,0 +1,40 @@
+
+.listi{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: center;
+    margin-top: 60px;
+}
+
+.option{
+    border: 1px rgb(204, 204, 204) solid;
+    margin: 10px;
+    cursor: pointer;
+    border-radius: 8px;
+    position: relative;
+    box-shadow: rgb(204, 204, 204) 0 5px;
+    transition: 100ms;
+    text-align: center;
+    padding: 10px 20px;
+    color: #7e7d7d;
+    text-decoration: none;
+    width: 200px !important;
+    display: block;
+}
+
+.option p {
+    margin-top: 40px;
+    font-weight: bolder;
+    font-size: large;
+    
+}
+
+.option:hover{
+    color: rgb(248, 81, 81);
+    box-shadow: rgb(248, 81, 81) 0 5px;
+    border: 1px rgb(248, 47, 47) solid;
+    transition: 100ms;
+}
+
+

@@ -1,0 +1,680 @@
+{
+  "products": [
+    {
+      "titre": "hp envy 17",
+      "categorie": "laptop",
+      "marque": "HP",
+      "description": "HP Envy 17 , 11th Gen Intel Core i7-1165G7, 12 GB RAM, 1 TB SATA Hard Drive & 256 GB SSD Storage, 17.3-inch Full HD IPS Touchscreen",
+      "pathimg": "/laptop/HP/Ordinateur portable processeur Intel Core i5 HP 250 G6.png",
+      "prix": "10290",
+      "promo": "55",
+      "id": 3
+    },
+    {
+      "titre": "Dell XPS 15",
+      "categorie": "laptop",
+      "marque": "DELL",
+      "description": "Dell XPS 15 - 15 Inch FHD+, Intel Core i7 10th Gen, 16GB Memory, 512GB Solid State Drive, Nvidia GeForce GTX 1650 Ti 4GB GDDR6",
+      "pathimg": "/laptop/DELL/Dell Xps (2).png",
+      "prix": "21990",
+      "promo": "0",
+      "id": 4
+    },
+    {
+      "titre": "Dell Inspiron ",
+      "categorie": "laptop",
+      "marque": "DELL",
+      "description": "Dell Inspiron 15.6\" Laptop, AMD Ryzen 5 Processor (up to 3.5 GHz), AMD Radeon Vega 8 Graphics, 8GB DDR4 RAM, 256GB PCIe SSD",
+      "pathimg": "/laptop/DELL/Dell Inspiron i3000.jpg",
+      "prix": "5990",
+      "promo": "0",
+      "id": 5
+    },
+    {
+      "titre": "Dell Latitude E7470 ",
+      "categorie": "laptop",
+      "marque": "DELL",
+      "description": "Dell Latitude E7470 14in Laptop, Core i5-6300U 2.4GHz, 8GB Ram, 256GB SSD",
+      "pathimg": "/laptop/DELL/Dell Latitude 3580.png",
+      "prix": "2300",
+      "promo": "23",
+      "id": 6
+    },
+    {
+      "titre": "Dell Latitude 5590 ",
+      "categorie": "laptop",
+      "marque": "DELL",
+      "description": "Dell Latitude 5590 Business Laptop | 15.6in HD Screen | Intel Quad Core 8th Gen i7-8650U | 16GB DDR4 RAM | 512GB SSD",
+      "pathimg": "/laptop/DELL/Dell Laptop.png",
+      "prix": "4200",
+      "promo": "0",
+      "id": 7
+    },
+    {
+      "titre": "Dell Inspiron ",
+      "categorie": "laptop",
+      "marque": "DELL",
+      "description": "Dell Inspiron 15.6-inch Full HD Touch-Screen Intel i5-1035G1 12GB 256GB SSD",
+      "pathimg": "/laptop/DELL/Dell Latitude 3580.png",
+      "prix": "5199",
+      "promo": "0",
+      "id": 8
+    },
+    {
+      "titre": "HP Stream",
+      "categorie": "laptop",
+      "marque": "HP",
+      "description": "HP Stream 14 inches HD (1366x768) Display, Intel Celeron N4000 Dual-Core Processor, 4GB RAM, 64GB eMMC",
+      "pathimg": "/laptop/HP/HP Chromebook Laptop Gris.png",
+      "prix": "2200",
+      "promo": "56",
+      "id": 9
+    },
+    {
+      "titre": "HP 15.6-inch ",
+      "categorie": "laptop",
+      "marque": "HP",
+      "description": "HP 15.6-inch Laptop, 11th Generation Intel Core i5-1135G7, Intel Iris Xe Graphics, 8 GB RAM, 256 GB SSD",
+      "pathimg": "/laptop/HP/Ordinateur portable processeur Intel Core i5 HP 250 G6.png",
+      "prix": "4599",
+      "promo": "0",
+      "id": 10
+    },
+    {
+      "titre": "HP 15 Laptop",
+      "categorie": "laptop",
+      "marque": "HP",
+      "description": "HP 15 Laptop, 15.6\" HD LED Display, Intel Dual-Core Processor, Intel UHD Graphics, 16GB DDR4 RAM, 1TB SSD",
+      "pathimg": "/laptop/HP/Ordinateur Portable,, HP.png",
+      "prix": "5000",
+      "promo": "0",
+      "id": 11
+    },
+    {
+      "titre": "HP 14 Laptop",
+      "categorie": "laptop",
+      "marque": "HP",
+      "description": "HP 14 Laptop, AMD 3020e, 4 GB RAM, 64 GB eMMC Storage, 14-inch HD Display",
+      "pathimg": "/laptop/HP/HP Chromebook Laptop Gris.png",
+      "prix": "2100",
+      "promo": "70",
+      "id": 12
+    },
+    {
+      "titre": "HP 14\" FHD",
+      "categorie": "laptop",
+      "marque": "HP",
+      "description": "HP 14\" FHD Laptop, AMD Ryzen 3-3250U (up to 3.5 GHz), 12GB RAM 512GB SSD + 1TB HDD",
+      "pathimg": "/laptop/HP/mbzesJUnM7uJA55GzQ6Tv7-265380801",
+      "prix": "4000",
+      "promo": "0",
+      "id": 13
+    },
+    {
+      "titre": "HP Pavilion ",
+      "categorie": "laptop",
+      "marque": "HP",
+      "description": "HP Pavilion 17.3-inch IPS FHD Laptop (2022 Model), Intel Core i5-1135G7 (Beats i7-1065G7), Intel Iris Xe Graphics, Backlit Keyboard, Long Battery Life, Wi-Fi 5, Windows 11 (16GB RAM | 1TB PCIe SSD)",
+      "pathimg": "/laptop/HP/Hp Pavilion 15.jpg",
+      "prix": "7890",
+      "promo": "0",
+      "id": 14
+    },
+    {
+      "titre": "HP Chromebook",
+      "categorie": "laptop",
+      "marque": "HP",
+      "description": "HP Chromebook 14 Laptop, Intel Celeron N4120, 4 GB RAM, 64 GB eMMC, 14\" HD Display, Chrome OS, 4K Graphics, Long Battery Life",
+      "pathimg": "/laptop/HP/hp-14.jpg",
+      "prix": "1999",
+      "promo": "0",
+      "id": 15
+    },
+    {
+      "titre": "HP 15.6-inch Laptop",
+      "categorie": "laptop",
+      "marque": "HP",
+      "description": "HP 15.6-inch Laptop, AMD Ryzen 7 5700U, 8 GB RAM, 256 GB SSD, HD Micro-Edge Display, Windows 11 Home, Thin & Portable, Long-Lasting Battery",
+      "pathimg": "/laptop/HP/Hp Pavilion 15.jpg",
+      "prix": "5800",
+      "promo": "0",
+      "id": 16
+    },
+    {
+      "titre": "HP 14\" FHD Laptop",
+      "categorie": "laptop",
+      "marque": "HP",
+      "description": "HP 14\" FHD Laptop, AMD Ryzen 3-3250U (up to 3.5 GHz), 8GB RAM 512GB SSD + 1TB HDD",
+      "pathimg": "/laptop/HP/Hp Elite.jpg",
+      "prix": "4600",
+      "promo": "0",
+      "id": 17
+    },
+    {
+      "titre": "HP Chromebook 14",
+      "categorie": "laptop",
+      "marque": "HP",
+      "description": "HP Chromebook 14 Laptop, Intel Celeron N4120, 4 GB RAM, 64 GB eMMC, 14\" HD Display, Chrome OS, Thin Design, 4K Graphics, Long Battery Life, Ash Gray Keyboard (14a-na0226nr, 2022, Mineral Silver)",
+      "pathimg": "/laptop/HP/Ordinateure Portable HP.png",
+      "prix": "2100",
+      "promo": "0",
+      "id": 18
+    },
+    {
+      "titre": "Acer Aspire 5 ",
+      "categorie": "laptop",
+      "marque": "ACER",
+      "description": "Acer Aspire 5 A515-56-32DK Slim Laptop - 15.6\" Full HD IPS Display - 11th Gen Intel i3-1115G4 Dual Core Processor - 4GB DDR4 - 128GB NVMe SSD",
+      "pathimg": "/laptop/ACER/th-2326884122",
+      "prix": "3789",
+      "promo": "0",
+      "id": 19
+    },
+    {
+      "titre": "Acer Nitro 5 ",
+      "categorie": "laptop",
+      "marque": "ACER",
+      "description": "Acer Nitro 5 AN517-54-79L1 Gaming Laptop | Intel Core i7-11800H | NVIDIA GeForce RTX 3050Ti Laptop GPU | 17.3\" FHD 144Hz IPS Display | 16GB DDR4 | 1TB NVMe SSD",
+      "pathimg": "/laptop/ACER/ACER-NITRO-5-AN515-55.webp",
+      "prix": "10100",
+      "promo": "78",
+      "id": 20
+    },
+    {
+      "titre": "Acer Chromebook 15",
+      "categorie": "laptop",
+      "marque": "ACER",
+      "description": "2022 Acer 15inch HD IPS Chromebook, Intel Dual-Core Celeron Processor Up to 2.55GHz, 4GB RAM, 32GB Storage",
+      "pathimg": "/laptop/ACER/Acer Chromebook sîn 712.jpg",
+      "prix": "2300",
+      "promo": "0",
+      "id": 21
+    },
+    {
+      "titre": "Acer Aspire 5 15.6",
+      "categorie": "laptop",
+      "marque": "ACER",
+      "description": "2022 Newest Acer Aspire 5 15.6\" FHD IPS Slim Laptop, 11th Gen Intel Core i3-1115G4(Up to 4.1GHz), 8GB RAM, 512GB NVMe SSD, WiFi 6",
+      "pathimg": "/laptop/ACER/Acer Ryzen 5.png",
+      "prix": "4490",
+      "promo": "0",
+      "id": 22
+    },
+    {
+      "titre": "Acer Nitro 5 ",
+      "categorie": "laptop",
+      "marque": "ACER",
+      "description": "2022 Acer Nitro 5 17.3\" FHD IPS 144Hz Gaming Laptop, 12th Intel i5-12500H(12 Core, up to 4.5GHz), GeForce RTX 3050, 32GB RAM 2TB PCIe SSD",
+      "pathimg": "/laptop/ACER/Acer Ryzen 5.png",
+      "prix": "12590",
+      "promo": "46",
+      "id": 23
+    },
+    {
+      "titre": "Lenovo ThinkPad E15",
+      "categorie": "laptop",
+      "marque": "LENOVO",
+      "description": "2022 Lenovo ThinkPad E15 Gen 2 Business Laptop, 15.6\" FHD (1920 x 1080) IPS, 11th Gen Intel Core i5-1135G7, 32GB RAM, 1TB PCIe SSD",
+      "pathimg": "/laptop/LENOVO/lenovo9.jpeg",
+      "prix": "9680",
+      "promo": "0",
+      "id": 24
+    },
+    {
+      "titre": "Lenovo IdeaPad",
+      "categorie": "laptop",
+      "marque": "LENOVO",
+      "description": "Lenovo - 2022 - IdeaPad 3i - Essential Laptop Computer - Intel Core i5 12th Gen - 15.6\" FHD Display - 8GB Memory - 512GB Storage",
+      "pathimg": "/laptop/LENOVO/lenovo6.jpeg",
+      "prix": "5999",
+      "promo": "0",
+      "id": 25
+    },
+    {
+      "titre": "Lenovo IdeaPad 14",
+      "categorie": "laptop",
+      "marque": "LENOVO",
+      "description": "Lenovo IdeaPad 14 Laptop, 14.0\" HD Display, Intel Celeron N4020, 4GB RAM, 64GB Storage",
+      "pathimg": "/laptop/LENOVO/lenovo2.jpeg",
+      "prix": "2000",
+      "promo": "0",
+      "id": 26
+    },
+    {
+      "titre": "Lenovo Flex 5 ",
+      "categorie": "laptop",
+      "marque": "LENOVO",
+      "description": "Lenovo Flex 5 Laptop, 14.0\" FHD Touch Display, AMD Ryzen 5 5500U, 16GB RAM, 512GB Storage, AMD Radeon Graphics",
+      "pathimg": "/laptop/LENOVO/lenovo7.jpeg",
+      "prix": "7990",
+      "promo": "0",
+      "id": 27
+    },
+    {
+      "titre": "Lenovo IdeaPad 3 ",
+      "categorie": "laptop",
+      "marque": "LENOVO",
+      "description": "Lenovo IdeaPad 3 Laptop, 17.3\" HD+ Display, Intel Core i7-1165G7, Intel Iris Xe Graphics, Wi-Fi 6, Fingerprint Reader, Long Battery Life",
+      "pathimg": "/laptop/LENOVO/lenovo3.jpeg",
+      "prix": "8399",
+      "promo": "0",
+      "id": 28
+    },
+    {
+      "titre": "Lenovo ThinkPad E15",
+      "categorie": "laptop",
+      "marque": "LENOVO",
+      "description": "Lenovo ThinkPad E15 Gen 2 Business Laptop, 15.6\" FHD (1920 x 1080) Non-Touch, 11th Gen Intel Core i7-1165G7, 32GB RAM, 1TB SSD",
+      "pathimg": "/laptop/LENOVO/lenovo1.jpeg",
+      "prix": "12599",
+      "promo": "0",
+      "id": 29
+    },
+    {
+      "titre": "Lenovo IdeaPad 3i",
+      "categorie": "laptop",
+      "marque": "LENOVO",
+      "description": "Lenovo IdeaPad 3i Business Laptop, 15.6\" HD Touchscreen Display, Intel Core i3-1115G4, Windows 11 Home, 12GB RAM, 256GB SSD",
+      "pathimg": "/laptop/LENOVO/lenovo5.jpeg",
+      "prix": "5389",
+      "promo": "0",
+      "id": 30
+    },
+    {
+      "titre": "Lenovo Ideapad 15.6\" ",
+      "categorie": "laptop",
+      "marque": "LENOVO",
+      "description": "Lenovo Ideapad 15.6\" HD Laptop, Athlon Silver 3050U 2.3 GHz (Beats i3-1005G1) Dual-core Processor, 8GB RAM, 256GB SSD(128GB eMMC+128GB PCIe SSD)",
+      "pathimg": "/laptop/LENOVO/lenovo4.jpeg",
+      "prix": "2990",
+      "promo": "0",
+      "id": 31
+    },
+    {
+      "titre": "ASUS Vivobook Go 15",
+      "categorie": "laptop",
+      "marque": "ASUS",
+      "description": "ASUS Vivobook Go 15 L510 Thin & Light Laptop Computer, 15.6” FHD Display, Intel Celeron N4020 Processor, 4GB RAM, 64GB Storage",
+      "pathimg": "/laptop/ASUS/Asus-Laptop-.png",
+      "prix": "1990",
+      "promo": "0",
+      "id": 32
+    },
+    {
+      "titre": "ASUS TUF Dash 15",
+      "categorie": "laptop",
+      "marque": "ASUS",
+      "description": "ASUS TUF Dash 15 (2022) Gaming Laptop, 15.6\" 144Hz FHD Display, Intel Core i7-12650H, GeForce RTX 3060, 16GB DDR5, 512GB SSD",
+      "pathimg": "/laptop/ASUS/Asus TUF Gaming F152022.jpg",
+      "prix": "11290",
+      "promo": "0",
+      "id": 33
+    },
+    {
+      "titre": "ASUS VivoBook 15",
+      "categorie": "laptop",
+      "marque": "ASUS",
+      "description": "ASUS VivoBook 15 F515 Laptop, 15.6\" FHD Display, Intel i3-1115G4 CPU, 8GB DDR4 RAM, 128GB SSD",
+      "pathimg": "/laptop/ASUS/ASUS Intel Core i7.png",
+      "prix": "3690",
+      "promo": "0",
+      "id": 34
+    },
+    {
+      "titre": "ASUS L410 ",
+      "categorie": "laptop",
+      "marque": "ASUS",
+      "description": "ASUS L410 MA-DB02 Ultra Thin Laptop, 14” FHD Display, Intel Celeron N4020 Processor, 4GB RAM, 64GB Storage",
+      "pathimg": "/laptop/ASUS/Mini Lap 2021.jpg",
+      "prix": "1970",
+      "promo": "0",
+      "id": 35
+    },
+    {
+      "titre": "ASUS 14\" HD ",
+      "categorie": "laptop",
+      "marque": "ASUS",
+      "description": "ASUS 14\" HD Laptop, Intel Celeron N4020 Processor, 4GB RAM, 128GB eMMC",
+      "pathimg": "/laptop/ASUS/ASUS ZenBook 3.png",
+      "prix": "2090",
+      "promo": "0",
+      "id": 36
+    },
+    {
+      "titre": "ASUS VivoBook 16X",
+      "categorie": "laptop",
+      "marque": "ASUS",
+      "description": "ASUS VivoBook 16X Laptop, 16” WUXGA (1920 x 1200) 16:10 Display, AMD Ryzen 5 5600H CPU, AMD Radeon Vega 7 Graphics, 16GB RAM, 512GB SSD",
+      "pathimg": "/laptop/ASUS/Asus Intel Core.png",
+      "prix": "6990",
+      "promo": "0",
+      "id": 37
+    },
+    {
+      "titre": "ASUS ROG 16",
+      "categorie": "laptop",
+      "marque": "ASUS",
+      "description": "ASUS ROG Zephyrus Duo 16 (2022) Gaming Laptop, 16” 165Hz IPS Type WUXGA 16:10 Display, NVIDIA GeForce RTX 3060, AMD Ryzen 7 6800H, 16GB DDR5, 1TB SSD",
+      "pathimg": "/laptop/ASUS/Asus ROG STRIX.jpg",
+      "prix": "20399",
+      "promo": "0",
+      "id": 38
+    },
+    {
+      "titre": "ASUS Zenbook 15.6\"",
+      "categorie": "laptop",
+      "marque": "ASUS",
+      "description": "ASUS Zenbook 15.6\" FHD 2-in-1 Touchscreen Business Laptop, AMD Ryzen 7 5700U(Beat i7-1180G7, Up to 4.3GHz), 8GB RAM, 1TB PCIe SSD, NVIDIA GeForce MX450",
+      "pathimg": "/laptop/ASUS/Asus Zenbook Duo.jpg",
+      "prix": "7399",
+      "promo": "0",
+      "id": 39
+    },
+    {
+      "titre": "Apple MacBook Air",
+      "categorie": "laptop",
+      "marque": "APPLE",
+      "description": "2020 Apple MacBook Air Laptop: Apple M1 Chip, 13” Retina Display, 8GB RAM, 256GB SSD Storage",
+      "pathimg": "/laptop/APPLE/macbook-pro.png",
+      "prix": "7980",
+      "promo": "0",
+      "id": 40
+    },
+    {
+      "titre": "Apple MacBook Air",
+      "categorie": "laptop",
+      "marque": "APPLE",
+      "description": "2022 Apple MacBook Air Laptop with M2 chip: 13.6-inch Liquid Retina Display, 8GB RAM, 256GB SSD Storage",
+      "pathimg": "/laptop/APPLE/macbook-air.png",
+      "prix": "8990",
+      "promo": "0",
+      "id": 41
+    },
+    {
+      "titre": "Apple MacBook Air",
+      "categorie": "laptop",
+      "marque": "APPLE",
+      "description": "2017 Apple MacBook Air with 1.8GHz Intel Core i5 13-inch, 8GB RAM, 128GB SSD Storage",
+      "pathimg": "/laptop/APPLE/macbook-pro Pink.png",
+      "prix": "4950",
+      "promo": "0",
+      "id": 42
+    },
+    {
+      "titre": "iPhone 11 pro",
+      "description": "64GB, Blanc - Unlocked",
+      "categorie": "phone",
+      "marque": "APPLE",
+      "pathimg": "/phone/APPLE/Iohone 11 Blanc.png",
+      "prix": "6500",
+      "promo": "0",
+      "id": 43
+    },
+    {
+      "titre": "Iphone 11pro",
+      "description": "coleur grise\nstockage 128go",
+      "categorie": "phone",
+      "marque": "APPLE",
+      "pathimg": "/phone/APPLE/Iphone 11 Pro Noire.png",
+      "prix": "6800",
+      "promo": "0",
+      "id": 44
+    },
+    {
+      "titre": "iPhone XR",
+      "categorie": "phone",
+      "marque": "APPLE",
+      "description": "Apple iPhone XR, 64GB, Black - Unlocked",
+      "pathimg": "/phone/APPLE/Iphone Xr.jpg",
+      "prix": "3400",
+      "promo": "0",
+      "id": 45
+    },
+    {
+      "titre": "IPhone 12",
+      "categorie": "phone",
+      "marque": "APPLE",
+      "description": "Apple iPhone 12, 64GB, Green - Unlocked",
+      "pathimg": "/phone/APPLE/Iphone 12 Noire.png",
+      "prix": "6099",
+      "promo": "0",
+      "id": 46
+    },
+    {
+      "titre": "IPhone 12pro",
+      "categorie": "phone",
+      "marque": "APPLE",
+      "description": "iPhone 12, 128go, blanc - Unlocked",
+      "pathimg": "/phone/APPLE/Iphone 12 Pro Blanc.png",
+      "prix": "8500",
+      "promo": "0",
+      "id": 47
+    }
+  ],
+  "users": [
+    {
+      "nom": "draif",
+      "prenom": "otman",
+      "email": "otmandraif@gmail.com",
+      "tel": "+212644376587",
+      "pwd": "aaaaaaaa",
+      "isadmin": 1,
+      "id": 1
+    },
+    {
+      "nom": "ziko",
+      "prenom": "draif",
+      "email": "zikodraif@gmail.com",
+      "tel": "+212645692378",
+      "pwd": "zzzzzzzz",
+      "isadmin": 0,
+      "id": 2
+    },
+    {
+      "nom": "hiba",
+      "prenom": "bili",
+      "email": "hibadraif@gmail.com",
+      "tel": "+212645692377",
+      "pwd": "hhhhhhhh",
+      "isadmin": 0,
+      "id": 3
+    },
+    {
+      "nom": "draif",
+      "prenom": "ali",
+      "email": "draifali@gmail.com",
+      "tel": "+212666168048",
+      "pwd": "00000000",
+      "isadmin": 0,
+      "id": 4
+    }
+  ],
+  "marque": [
+    {
+      "id": 1,
+      "name": "HP"
+    },
+    {
+      "id": 2,
+      "name": "ASUS"
+    },
+    {
+      "id": 3,
+      "name": "DELL"
+    },
+    {
+      "id": 4,
+      "name": "ACER"
+    },
+    {
+      "id": 5,
+      "name": "APPLE"
+    },
+    {
+      "id": 6,
+      "name": "LENOVO"
+    }
+  ],
+  "category": [
+    {
+      "id": 1,
+      "category": "laptop"
+    },
+    {
+      "id": 3,
+      "category": "phone"
+    },
+    {
+      "id": 4,
+      "category": "tablet"
+    },
+    {
+      "id": 5,
+      "category": "accessoire"
+    }
+  ],
+  "comment": [
+    {
+      "id_product": "3",
+      "id_user": 4,
+      "comment": "azdazddaz",
+      "UserName": "ali draif",
+      "id": 1
+    },
+    {
+      "num_product": 4,
+      "id_user": 2,
+      "comment": "helloo",
+      "UserName": "draif ziko",
+      "id": 2
+    },
+    {
+      "num_product": 13,
+      "id_user": 3,
+      "comment": "Hey ...",
+      "UserName": "bili hiba",
+      "id": 3
+    },
+    {
+      "num_product": 3,
+      "id_user": 2,
+      "comment": "hello",
+      "UserName": "draif ziko",
+      "id": 4
+    },
+    {
+      "num_product": 4,
+      "id_user": 3,
+      "comment": "helloooooo",
+      "UserName": "bili hiba",
+      "id": 5
+    }
+  ],
+  "panier": [
+    {
+      "num_product": 5,
+      "id_user": 3,
+      "titre_p": "Dell Inspiron ",
+      "img_p": "/laptop/DELL/Dell Inspiron i3000.jpg",
+      "prix_p": "5990",
+      "id": 2
+    },
+    {
+      "num_product": 4,
+      "id_user": 3,
+      "titre_p": "Dell XPS 15",
+      "img_p": "/laptop/DELL/Dell Xps (2).png",
+      "prix_p": "21990",
+      "id": 3
+    },
+    {
+      "num_product": 3,
+      "id_user": 3,
+      "titre_p": "hp envy 17",
+      "img_p": "/laptop/HP/Ordinateur portable processeur Intel Core i5 HP 250 G6.png",
+      "prix_p": "10290",
+      "id": 10
+    },
+    {
+      "num_product": 3,
+      "id_user": 2,
+      "titre_p": "hp envy 17",
+      "img_p": "/laptop/HP/Ordinateur portable processeur Intel Core i5 HP 250 G6.png",
+      "prix_p": "4630.50",
+      "id": 11
+    },
+    {
+      "num_product": 3,
+      "id_user": 2,
+      "titre_p": "hp envy 17",
+      "img_p": "/laptop/HP/Ordinateur portable processeur Intel Core i5 HP 250 G6.png",
+      "prix_p": "4630.50",
+      "id": 14
+    }
+  ],
+  "support": [
+    {
+      "titre": "hada titre",
+      "description": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+      "device": "pc",
+      "os": "windows",
+      "id": 1
+    },
+    {
+      "titre": "aaaaa",
+      "description": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+      "device": "pc",
+      "os": "mac",
+      "id": 2
+    },
+    {
+      "titre": "aasasas",
+      "description": "asssssssssssssssssssssssssssssssssssssssssaaaaaaaaaaaaaaaaaaaaaaaaa",
+      "device": "phone",
+      "os": "android",
+      "id": 3
+    }
+  ],
+  "commandeespece": [
+    {
+      "ville": "Fès",
+      "codepostal": "24500",
+      "adress": "79 Fes",
+      "email": "Yosra@gmail.com",
+      "price": 21800,
+      "fname": "yosra yosra",
+      "confirmer": true,
+      "id": 12
+    },
+    {
+      "ville": "Fès",
+      "codepostal": "24500",
+      "adress": "79 Fes",
+      "confirmer": false,
+      "fname": "yosra yosra",
+      "email": "Yosra@gmail.com",
+      "price": 21800,
+      "id": 13
+    },
+    {
+      "ville": "Fès",
+      "codepostal": "24500",
+      "adress": "79 Fes",
+      "email": "Yosra@gmail.com",
+      "price": 21800,
+      "fname": "yosra yosra",
+      "confirmer": true,
+      "id": 14
+    },
+    {
+      "fname": "hiba bili",
+      "ville": "Agadir",
+      "email": "hibadraif@gmail.com",
+      "codepostal": "80000",
+      "adress": "rue 354 n 18",
+      "price": 71960,
+      "confirmer": false,
+      "id": 15
+    }
+  ]
+}

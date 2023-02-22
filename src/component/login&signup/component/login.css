@@ -1,0 +1,86 @@
+.input_label{
+    display: flex;
+    flex-direction: column;
+    
+    margin-top: 10px;
+}
+.input_label input{
+    width: 240px;
+    height: 27px;
+    background-color: #d3c8ce;
+    border-radius: 30px;
+    border: none;
+}
+.input_label input:focus{
+
+    outline: #f57979 2px solid;
+}
+.input_user input:focus{
+
+    outline: #f57979 2px solid;
+}
+.input_label input::placeholder{
+    font-weight:bold;
+    text-align: center;
+}
+.input_user input::placeholder{
+    font-weight:bold;
+    text-align: center;
+}
+.input_user input{
+    width: 108px;
+    height: 25px;
+    background-color: #d3c8ce;
+    border: none;
+    border-radius: 30px;
+    display: flex;
+    flex-direction: column;
+}
+.input_user{
+    margin-top: 10px;
+}
+.form{
+    display: flex;
+    justify-content: center;
+}
+h1{
+    text-align: center;
+}
+.full_name{
+    display: flex;
+}
+.marg{
+    margin-left:15px ;
+}
+.button-box{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin: auto;
+    margin-top: 40px;
+}
+.button-box button{
+    width: 240px;
+    padding: 10px;
+    border: none;
+    border-radius: 8px;
+    background-color: #bd1e1e;
+    color: #fff;
+    font-weight: bold;
+}
+.button-box button:hover{
+    background-color: #960404;
+}
+
+.error{
+    font-size: 12px;
+    text-align: center;
+    background-color: red;
+    color: #fff;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 12px;
+
+}

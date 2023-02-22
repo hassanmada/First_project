@@ -1,0 +1,55 @@
+
+.p_section {
+  display: flex; 
+  justify-content: space-between;
+  align-items: center;
+  margin-left: 10px;
+  margin-right: 10px;
+  
+  
+}
+/* .cards {
+
+  min-width: 100%;
+  
+  padding: 20px;
+} */
+.cards:hover {
+  box-shadow: 0 10px 10px 10px rbga(0, 0, 0, 0.1);
+  cursor: pointer;
+}
+.image_box img {
+  width: 150px;
+  height: 200px;
+}
+
+.image_box img {
+  width: 150px;
+  height: 200px;
+}
+.details p:nth-child(1) {
+  font-weight: bold;
+}
+.details p:nth-child(2) {
+  color: black;
+  
+}
+.details p:nth-child(3) {
+  /* font-weight: bolx; */
+  color: grey;
+}
+.details button {
+  border: none;
+    outline: 0;
+    padding: 12px;
+    color: white;
+    background-color: #BD1E1E;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    font-size: 18px;
+}
+.bouton:hover{
+  transition: 0.5s;
+ background-color: #681717;
+}

@@ -1,0 +1,248 @@
+.topnav {
+  background-color: #b80e0e;
+  overflow: hidden;
+  position: fixed;
+  height: 60px;
+  width: 100%;
+  top:0;
+  transition: 300ms;
+  z-index: 1000;
+  box-shadow: 0 0 10px rgb(65, 64, 64);
+}
+.p_length{
+  color: #fff;
+  border-radius:  50%;
+  width: 20px;
+  height: 20px;
+  background-color: rgb(214, 70, 26);
+  padding: 5px;
+  top:10px;
+  left: 50%;
+  position: absolute;
+  line-height: 10px;
+  text-align: center;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.425);
+}
+.topnav .link {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+.topnav .link:hover {
+  background-color: #ddd;
+  color: black;
+
+}
+.topnav .link.active {
+  background-color: #b80e0e;
+  color: white;
+
+}
+.cartshop{
+  position: absolute;
+  color: #fff;
+  padding: 15px;
+  font-size: 25px;
+  top:-2px;
+  left: 80%;
+  cursor: pointer !important;
+}
+.srh{
+  position: absolute;
+  display: flex;
+  transition: 300ms;
+  margin-top: 3px;
+  left: 45%;
+}
+.srhicon{
+  position: absolute;
+  left: 100%;
+  top:15px;
+  font-size: 18px;
+  color:#fff;
+  
+}
+.topnav .icon {
+  display: none;
+}
+.Life-name{
+  position: relative;
+  top: -10px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  font-weight:bold;
+  color: #fff;
+  text-decoration: none;
+}
+.Life{
+  height: 90px;
+  object-fit: contain;
+  margin-top: -30px;
+}
+.log{
+  background-color: rgba(0, 0, 0, 0);
+  
+  padding: 5px;
+  float: left;
+  margin-top: 5%;
+  border-radius:8px;
+}
+.log:hover{
+  background-color: #8a0a0a;
+}
+
+.header{
+  display: flex;
+  justify-content: space-between;
+  margin-right: 20px;
+}
+.log-btn{
+  background-color: transparent;
+  color: #fff;
+  border: #fff 1px solid;
+  padding: 10px 10px;
+  margin-top: -5px;
+  width: 100%;
+}
+.header_link{
+  margin-top: 5px;
+}
+
+@media screen and (max-width: 800px) {
+  .topnav .log,.log-btn,.link:not(:first-child) {display: none;}
+  .topnav .link.icon {
+    float: right;
+    display: block;
+  }
+  .header{
+    display: block;
+    margin-right: 0;
+  }
+  .header_link{
+    display: none;
+  }
+  .cartshop{
+    left: 80%;
+    font-size: 23px;
+    padding: 15px;
+    cursor: pointer !important;
+  }
+  .srhicon{
+    position: absolute;
+    left:33rem;
+    top:15px;
+    font-size: 18px;
+    color:#fff;
+    
+  }
+}
+@media screen and (max-width: 800px) {
+  .topnav.responsive {position: fixed;height: 320px;transition: 300ms;}
+  .topnav.responsive .link.icon{
+    position: absolute;
+    right: 0;
+    top: 0;
+    
+  }
+  .srh{
+    left: 2%;
+  }
+  .topnav.responsive .link{ 
+    transition: 300ms;
+    float: none;
+    display: block;
+    text-align: left;
+  }
+  .topnav.responsive .header_link{
+    display: block;
+  }
+  .topnav.responsive .cartshop{
+
+    display: none;
+ 
+  }
+  .topnav.responsive .srh{
+    
+    display: none;
+ 
+  }
+  .topnav.responsive .p_length{
+    display: none;
+  }
+  .topnav.responsive .log{
+    display: block;
+  }
+  .topnav.responsive .log-btn{
+    transition: 300ms;
+    float: none;
+    padding: 10px 10px;
+    margin-top: -40%;
+    display: block;
+    text-align: left;
+    left: 14px;
+  }
+}
+/* Dropdown Button */
+.dropbtn {
+  background-color: #3498DB;
+  color: white;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+}
+
+/* Dropdown button on hover & focus */
+.dropbtn:hover, .dropbtn:focus {
+  background-color: #2980B9;
+}
+
+/* The container <div> - needed to position the dropdown content */
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+/* Dropdown Content (Hidden by Default) */
+.dropdown-content {
+  display: none;
+  position: fixed;
+  background-color: #f1f1f1;
+  width: 160px;
+  transform: translateX(-30px);
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+/* Links inside the dropdown */
+.dropdown-content button {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  width: 100%;
+  display: block;
+}
+
+/* Change color of dropdown links on hover */
+.dropdown-content button:hover {background-color: #ddd;}
+.link_p{
+  color: #000;
+  float: left;
+  display: block;
+  text-align: center;
+  width: 100%;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+.link_p:hover {
+  background-color: #ddd;
+  color: #000;
+}
+
+/* Show the dropdown menu (use JS to add this class to the .dropdown-content container when the user clicks on the dropdown button) */
+.show {display:block;}
